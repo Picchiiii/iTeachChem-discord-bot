@@ -39,4 +39,4 @@ The bot checks for the given forum channel id and when a post is made in that fo
 - `+status <activity> <status>` This command is used to set the status of the bot (Bot owner only). You can have any type of status possible inside of a discord bot. "Playing", "listening", "watching" and "Custom".
 
 ## Errors
-Feel free to message me on my discord 
+Feel free to message me on my discord @picchiii
